@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.2")
+    implementation("com.fasterxml.jackson.module:jackson-module-scala_2.13:2.15.2")
     implementation("org.scala-lang:scala-library:2.13.11")
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.9.2")
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.9.2")
